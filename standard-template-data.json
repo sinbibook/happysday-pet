@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-05-13T02:22:52.477370128Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-05-13T02:47:21.903486943Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -73,13 +73,13 @@
       {
         "id": "5d8463a9-fe7e-483b-996b-fbfe0af90ff0",
         "name": "마트픽업",
-        "description": " 편리한 마트 픽업 서비스로 더욱 가볍고 편안한 여행을 즐겨보세요.",
+        "description": "자체픽업 이미지는 AI로 대체 제공되며, 실제와 일부 차이가 있을 수 있습니다.",
         "usageGuide": "- 조은마트에서 2인기준 3만원이상 구매 시 픽업 가능",
         "displayOrder": 0,
         "images": [
           {
-            "id": "dc0e9264-df41-49b8-b864-c6b334c70d95",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5d8463a9-fe7e-483b-996b-fbfe0af90ff0/main/1778566996516-6ezahqokkf.jpg",
+            "id": "8633067c-b08d-4a1d-b7e4-8720a8409755",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5d8463a9-fe7e-483b-996b-fbfe0af90ff0/main/1778640431476-tfcwtiax2e.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
