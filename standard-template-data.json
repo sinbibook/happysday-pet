@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-05-13T02:13:51.293668269Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-05-13T02:19:17.052703883Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -1472,7 +1472,102 @@
                 ],
                 "description": " "
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "애견동반펜션",
+                  "images": [
+                    {
+                      "id": "4414d151-bac9-4bbe-a1e6-61661b1be591",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638602812-t35s1e6czx.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1a6f7587-5d2d-469b-a14f-fc0bfd59fc24"
+                    },
+                    {
+                      "id": "283f0427-c3e0-453b-888e-4c765e3cd611",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638602888-crqut3z4xc.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1a6f7587-5d2d-469b-a14f-fc0bfd59fc24"
+                    },
+                    {
+                      "id": "9ae7dad1-d5cc-4e9a-ada4-9cd0f522a2db",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638602800-cyl457wx47.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1a6f7587-5d2d-469b-a14f-fc0bfd59fc24"
+                    },
+                    {
+                      "id": "dc03e960-a336-4c8f-a0c6-e580744c3ad3",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638602816-w0i4mz5432.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1a6f7587-5d2d-469b-a14f-fc0bfd59fc24"
+                    },
+                    {
+                      "id": "5ad17399-41a9-4e70-ab11-d3c652059608",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638602889-pqu53s8zl9.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1a6f7587-5d2d-469b-a14f-fc0bfd59fc24"
+                    }
+                  ],
+                  "blockId": "1a6f7587-5d2d-469b-a14f-fc0bfd59fc24",
+                  "description": "반려견과 함께 마음껏 뛰어놀 수 있는 야외수영장과 애견놀이터가 마련되어 있어, 사랑하는 반려견과 더욱 즐겁고 특별한 추억을 만들 수 있는 춘천 해피스데이 펜션입니다."
+                },
+                {
+                  "title": "아름다운 남이섬 여행",
+                  "images": [
+                    {
+                      "id": "45ab799d-f3cd-4509-808f-a5a8edc70b48",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744068-gcbv1x3cn0.jpg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
+                    },
+                    {
+                      "id": "d3a92d69-a749-4921-ad7a-a657add766bb",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744074-fv468dx71t.jpg",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
+                    },
+                    {
+                      "id": "285cb186-0c18-44cf-a6e5-3217fe04545c",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744076-c63l30e126.jpg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
+                    },
+                    {
+                      "id": "5440b1e2-b335-4d11-b8eb-e8f92c468312",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744080-dvveo9sx4f.jpg",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
+                    },
+                    {
+                      "id": "6f57feef-a4cc-42d6-865b-d5636c5bb9a2",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744046-d065wu8pss.jpg",
+                      "sortOrder": 9,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
+                    }
+                  ],
+                  "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b",
+                  "description": "남이섬의 아름다운 자연 속에서 여유로운 힐링을 즐기며, 제이드가든과 자라섬 등 춘천의 다양한 관광지를 함께 둘러볼 수 있는 감성 가득한 여행 공간입니다."
+                }
+              ]
             }
           ]
         },
