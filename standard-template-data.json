@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-05-13T02:12:30.956561250Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-05-13T02:13:51.293668269Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -13,8 +13,8 @@
     "description": "",
     "subtitle": "",
     "address": "강원특별자치도 춘천시 남산면 방하로 688-16",
-    "latitude": 0,
-    "longitude": 0,
+    "latitude": 37.7915038927097,
+    "longitude": 127.532258835996,
     "contactPhone": "010-9080-8363",
     "contactEmail": "",
     "checkin": "15:00",
