@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-05-12T09:15:54.997301690Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-05-13T00:39:33.445382957Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -467,9 +467,9 @@
     {
       "id": "d3bccce1-6f50-4daa-a742-b59ab9404119",
       "name": "팅커벨 A101",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
-      "usageGuide": "",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 39.67,
       "baseOccupancy": 2,
@@ -484,7 +484,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -541,7 +541,7 @@
     {
       "id": "a85efcb5-049e-41a4-aa2d-02657df910ab",
       "name": "피터팬 A103",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "",
       "group": null,
@@ -558,7 +558,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -615,7 +615,7 @@
     {
       "id": "6f27d174-2253-48d7-a5ad-7df2f06c65a5",
       "name": "앨리스 B102",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "",
       "group": null,
@@ -632,7 +632,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -689,7 +689,7 @@
     {
       "id": "1ea4a1d1-aab9-432f-81ec-f85b7f42247c",
       "name": "웬디 A102",
-      "description": "",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -706,7 +706,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -763,7 +763,7 @@
     {
       "id": "c700c5d4-f701-4c85-8930-8ac9e86a2b92",
       "name": "라푼젤 A202",
-      "description": "",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -780,7 +780,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -837,7 +837,7 @@
     {
       "id": "4d3f2272-0687-41a8-be96-a6474b918a91",
       "name": "모아나 B103",
-      "description": "",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -854,7 +854,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -911,7 +911,7 @@
     {
       "id": "ca956370-a56f-4824-a52b-33d7da566362",
       "name": "신데렐라 B202",
-      "description": "",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -928,7 +928,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -985,7 +985,7 @@
     {
       "id": "fc362b27-9fd9-49c4-add2-5e4d737d0fe0",
       "name": "오로라 B101",
-      "description": "",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -1002,7 +1002,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -1059,7 +1059,7 @@
     {
       "id": "e27e10a1-4237-4e42-ad55-456e2fd072e4",
       "name": "에리얼 B201",
-      "description": "",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -1076,7 +1076,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -1133,7 +1133,7 @@
     {
       "id": "f8804f82-c0e1-4c28-88b2-f56c776551e2",
       "name": "엘사 A201",
-      "description": "",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 1인 20,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -1150,7 +1150,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
