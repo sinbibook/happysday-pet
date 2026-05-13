@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-05-13T02:08:37.355200842Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-05-13T02:12:30.956561250Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -73,7 +73,7 @@
       {
         "id": "5d8463a9-fe7e-483b-996b-fbfe0af90ff0",
         "name": "마트픽업",
-        "description": " ",
+        "description": " 편리한 마트 픽업 서비스로 더욱 가볍고 편안한 여행을 즐겨보세요.",
         "usageGuide": "- 조은마트에서 2인기준 3만원이상 구매 시 픽업 가능",
         "displayOrder": 0,
         "images": [
@@ -90,7 +90,7 @@
       {
         "id": "f5888e2d-80a8-4b59-a379-c694cdb5f208",
         "name": "개별바베큐&공용바베큐",
-        "description": " ",
+        "description": "바베큐장에서 맛있는 식사를 즐겨보세요.",
         "usageGuide": "- 이용 장소: 개별 테라스 또는 공용바베큐장\n- 숯+그릴 : 2인 기준 20,000원 (1인 추가시 5,000원)\n- 운영시간 : 17:00~22:00\n※ 현장결제\n※ 숯/그릴 개인지참 불가",
         "displayOrder": 1,
         "images": [
@@ -139,7 +139,7 @@
       {
         "id": "32860292-52e2-41c2-aca8-29ec2abb3488",
         "name": "애견동반 야외 공용수영장",
-        "description": " ",
+        "description": "반려견과 함께 시원한 물놀이를 즐길 수 있는 야외 공용수영장이 마련되어 있습니다.",
         "usageGuide": "- 야외수영장 운영기간 : 4/10~9/30\n- 운영시간 : 입실시~ 20:00\n- 요금 : 무료",
         "displayOrder": 2,
         "images": [
@@ -180,7 +180,7 @@
       {
         "id": "226d8d13-dd7f-4c67-983e-c3f5d7e8d24b",
         "name": "불멍",
-        "description": " ",
+        "description": " 따뜻한 불멍과 함께 여유로운 감성 힐링 시간을 즐겨보세요.",
         "usageGuide": "- 감성모닥불 : 20,000원 (장작 1망 추가시 15,000원)\n- 이용시간 : 18:00~22:00\n※ 현장결제\n※ 우천시 이용불가",
         "displayOrder": 3,
         "images": [
@@ -213,7 +213,7 @@
       {
         "id": "259a3e69-af77-4d52-97fc-bbd82f31b285",
         "name": "애견놀이터",
-        "description": " ",
+        "description": " 반려견이 마음껏 뛰어놀 수 있는 전용 놀이터에서 즐거운 시간을 보내보세요.",
         "usageGuide": "- 즐겁게 뛰어 놀 수 있는 애견 놀이터 보유\n",
         "displayOrder": 4,
         "images": [
@@ -254,7 +254,7 @@
       {
         "id": "967c8452-d160-4068-a758-e9f66c08a6c7",
         "name": "애견동반",
-        "description": " ",
+        "description": " 사랑하는 반려견과 함께 여행할 수 있는 애견동반 펜션입니다.",
         "usageGuide": "- 최대마리수(소형견기준) : 팅커벨, 피터팬, 앨리스 2마리 / 웬디, 라푼젤, 모아나, 신데렐라 3마리 /  애리얼, 오로라 4마리 / 엘사 5마리\n- ~7kg 미만 : 20,000원\n- 7kg이상~20kg미만 : 30,000원\n- 20kg이상~ : 50,000원\n※ 7kg미만 1마리 무료\n※ 12kg이상 사전문의 필수\n※ 1박기준/현장결제",
         "displayOrder": 5,
         "images": [
