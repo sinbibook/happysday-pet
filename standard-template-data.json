@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-05-13T01:42:45.775643451Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-05-13T01:49:58.609208230Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -1319,7 +1319,7 @@
                 "description": "춘천 남이섬 해피스데이 펜션"
               },
               "closing": {
-                "title": " ",
+                "title": "A Cozy Healing Stay Surrounded By Nature At Happy’s Day",
                 "images": [
                   {
                     "id": "0c0dc94f-fe15-44ee-a78a-5589fa9d6626",
@@ -1341,7 +1341,7 @@
                     "id": "e910ef18-2280-4989-960b-8967c6468085",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_essence/1778568287146-kmvhv3wjof.jpg",
                     "sortOrder": 0,
-                    "description": "반려견과 함께 뛰어놀 수 있는 야외수영장과 애견놀이터가 마련된 춘천 해피스데이 펜션",
+                    "description": "반려견과 함께 마음껏 뛰어놀 수 있는 야외수영장과 애견놀이터가 마련되어 있어, 사랑하는 반려견과 더욱 즐겁고 특별한 추억을 만들 수 있는 춘천 해피스데이 펜션입니다.",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1349,7 +1349,7 @@
                     "id": "92c042a9-f2d6-42ea-b87a-357d4f2fd1ea",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_essence/1778568287117-lzqxjxpuvt.jpg",
                     "sortOrder": 1,
-                    "description": "남이섬의 아름다운 자연 힐링과 함께 제이드가든, 자라섬 등 춘천의 다양한 관광지를 함께 즐길 수 있는 감성 여행 공간",
+                    "description": "남이섬의 아름다운 자연 속에서 여유로운 힐링을 즐기며, 제이드가든과 자라섬 등 춘천의 다양한 관광지를 함께 둘러볼 수 있는 감성 가득한 여행 공간입니다.",
                     "isSelected": true,
                     "blockId": null
                   },
