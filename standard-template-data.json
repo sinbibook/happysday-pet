@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-05-13T02:19:17.052703883Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-05-13T02:20:56.602478639Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -1381,7 +1381,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "Enjoy A Relaxing Stay \nWith Your Lovely Dogs \nNear Nami Island"
+                "description": "Enjoy A Relaxing Stay \nWith Your \nLovely Dogs \nNear Nami Island"
               },
               "gallery": {
                 "title": "",
