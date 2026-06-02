@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.26.0",
-    "generatedAt": "2026-05-26T02:41:55.269303730Z",
+    "version": "1.27.0",
+    "generatedAt": "2026-06-02T03:54:00.390042207Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -1847,6 +1847,19 @@
             }
           ]
         },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        },
         "layoutMap": {
           "sections": [
             {
@@ -1863,19 +1876,6 @@
               "enabled": false
             }
           ]
-        },
-        "nearbyAttractions": {
-          "sections": [
-            {
-              "hero": {
-                "title": "",
-                "images": [ ],
-                "description": ""
-              },
-              "about": [ ],
-              "enabled": false
-            }
-          ]
         }
       },
       "popup": {
@@ -1883,6 +1883,12 @@
       },
       "theme": {
         "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "cafe24gowoonbam",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
+            "family": "Cafe24Gowoonbam"
+          },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
             "key": "pretendard",
@@ -1894,12 +1900,6 @@
             "key": "cormorant",
             "woff2": null,
             "family": "Cormorant"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "cafe24gowoonbam",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
-            "family": "Cafe24Gowoonbam"
           }
         },
         "color": {
