@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.37.0",
-    "generatedAt": "2026-07-27T10:47:42.745275184Z",
+    "version": "1.38.0",
+    "generatedAt": "2026-07-27T10:50:15.562114213Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -2527,73 +2527,41 @@
                   "title": "아름다운 남이섬 여행",
                   "images": [
                     {
-                      "id": "dff0e1fc-c94a-416d-8841-e5d97cee05a5",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1779246454301-hmkqkn93v9.jpg",
+                      "id": "36f13af5-d67d-4c56-87be-b141cf99d7e4",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1785149412315-fl8cfd5f70.jpg",
                       "sortOrder": 5,
                       "description": "",
                       "isSelected": true,
                       "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
                     },
                     {
-                      "id": "dc163512-5e5a-4cab-a2b6-edfc7923ced8",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1779246454298-76l4piq0ki.jpg",
+                      "id": "a2d798ab-81b1-452e-bf00-0bca1355fec4",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1785149412319-fderr1cuqq.jpg",
                       "sortOrder": 6,
                       "description": "",
                       "isSelected": true,
                       "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
                     },
                     {
-                      "id": "d3a92d69-a749-4921-ad7a-a657add766bb",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744074-fv468dx71t.jpg",
+                      "id": "dba6f0fc-42ab-4303-a21a-5152c585e297",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1785149412318-j0q148m0kp.jpg",
                       "sortOrder": 7,
                       "description": "",
                       "isSelected": true,
                       "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
                     },
                     {
-                      "id": "45ab799d-f3cd-4509-808f-a5a8edc70b48",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744068-gcbv1x3cn0.jpg",
+                      "id": "68cace4c-a2cf-4dc5-bf27-11442455796f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1785149412321-8pt00x6yru.jpg",
                       "sortOrder": 8,
                       "description": "",
                       "isSelected": true,
                       "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
                     },
                     {
-                      "id": "285cb186-0c18-44cf-a6e5-3217fe04545c",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744076-c63l30e126.jpg",
+                      "id": "1602023f-3aa9-469a-9de4-acca66c7d854",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1785149412322-t2q49gsnbk.jpg",
                       "sortOrder": 9,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
-                    },
-                    {
-                      "id": "06e8a27d-0f31-43e5-88ba-94d7313fccd2",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1779246454209-e21mnz8f36.jpg",
-                      "sortOrder": 10,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
-                    },
-                    {
-                      "id": "5440b1e2-b335-4d11-b8eb-e8f92c468312",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744080-dvveo9sx4f.jpg",
-                      "sortOrder": 11,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
-                    },
-                    {
-                      "id": "3f932731-ac74-4f26-99f9-e7dc4327d08f",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1779246454191-o840k1dva6.jpg",
-                      "sortOrder": 12,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
-                    },
-                    {
-                      "id": "6f57feef-a4cc-42d6-865b-d5636c5bb9a2",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/main_about/1778638744046-d065wu8pss.jpg",
-                      "sortOrder": 13,
                       "description": "",
                       "isSelected": true,
                       "blockId": "284aa8ee-614d-49d5-8183-33606fa30a2b"
