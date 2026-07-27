@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-07-27T10:25:48.559629283Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-07-27T10:41:31.718764478Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -2262,8 +2262,8 @@
                 "title": "A Cozy Healing Stay Surrounded By Nature At Happy’s Day",
                 "images": [
                   {
-                    "id": "18ae4bbe-10bf-4238-b8c3-499ac50f14e2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_closing/1779246049132-n4pb9vg7d4.jpg",
+                    "id": "c61179ca-f676-418e-ad60-8068ecfbe4a8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_closing/1785148889129-bxhtf0tjz1.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2286,24 +2286,24 @@
                     "blockId": null
                   },
                   {
-                    "id": "cb7ea4ed-558a-473b-9dd5-34ce19b0b324",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_essence/1779246049137-lcp4dl75gz.jpg",
+                    "id": "565dbb65-2af8-4c62-98ac-b29376d94485",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_essence/1785148889123-yh7u9cuqfg.jpg",
                     "sortOrder": 1,
-                    "description": "반려견과 함께 마음껏 뛰어놀 수 있는 \n야외수영장과 애견놀이터가 마련되어 있어, \n사랑하는 반려견과 더욱 즐겁고 \n특별한 추억을 만들 수 있는 \n춘천 해피스데이 펜션입니다.",
+                    "description": "반려견과 함께 마음껏 뛰어놀 수 있는\n야외수영장과 애견놀이터가 마련되어 있어,\n사랑하는 반려견과 더욱 즐겁고\n특별한 추억을 만들 수 있는\n춘천 해피스데이 펜션입니다.",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "06843a01-553f-48ea-ae9b-7f1430775b32",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_essence/1779245703002-99pygzya4y.jpg",
+                    "id": "e2f9a247-5f11-4845-b659-b8380152e93e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_essence/1785148889130-jk4jljc85r.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "b1bc399c-037a-474e-b8ca-f869ab6f265a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_essence/1779246513045-aszzdva988.jpg",
+                    "id": "0d57189f-5b99-4ed8-8381-71c5afbc0141",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_essence/1785148889122-54u5okqlhi.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
