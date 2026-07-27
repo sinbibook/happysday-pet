@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.39.0",
-    "generatedAt": "2026-07-27T10:52:44.383489022Z",
+    "version": "1.40.0",
+    "generatedAt": "2026-07-27T11:01:48.393831039Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -2559,25 +2559,9 @@
                 "title": "Reservation",
                 "images": [
                   {
-                    "id": "79d21122-1de0-4a19-a6e6-07ca155907fe",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/reservation_hero/1779246454206-nhis55plza.jpg",
+                    "id": "a440b9b5-4ef0-4d9c-8342-bb22d6dae57e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/reservation_hero/1785150106561-mo9ty3p9oy.jpg",
                     "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "a2e38dac-666e-4223-82a9-69864a35a4d9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/reservation_hero/1779246454189-h6u35qeces.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "b3eb481b-e942-43dc-81c2-ccf35b05a265",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/reservation_hero/1779246454301-ni4yelt1cb.jpg",
-                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
