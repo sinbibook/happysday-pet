@@ -783,12 +783,6 @@ class PreviewHandler {
                     case 'usageGuide':
                         mapper.mapUsageSection();
                         break;
-                    case 'reservationGuide':
-                        mapper.mapReservationGuideSection();
-                        break;
-                    case 'checkInOut':
-                        mapper.mapCheckInOutSection();
-                        break;
                     case 'refund':
                         mapper.mapRefundSection();
                         break;
