@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.44.0",
-    "generatedAt": "2026-08-10T07:20:59.010763612Z",
+    "version": "1.45.0",
+    "generatedAt": "2026-08-24T07:47:14.091866301Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -2173,8 +2173,8 @@
                 "title": "Moments Made Together",
                 "images": [
                   {
-                    "id": "98b5e70e-de39-49bb-a2b1-fff69c3b040a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_hero/1785147676549-apnfdq3fqe.jpg",
+                    "id": "5f69b6bb-9a0d-446d-a78e-0c3d5f81ec56",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/index_hero/1787557628906-1klw0129bd.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
