@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.46.0",
-    "generatedAt": "2026-08-24T07:47:45.049883908Z",
+    "version": "1.47.0",
+    "generatedAt": "2026-09-01T08:21:22.193724884Z",
     "templateType": "fullpage_visual",
     "propertyId": "4dd320ea-6cc8-435e-a7a6-5b511ec394ec",
     "homepageId": "a02fbc5c-62bf-49bf-b516-5dcea7de6f9c"
@@ -15,7 +15,9 @@
     "address": "강원특별자치도 춘천시 남산면 방하로 688-16 해피스데이 펜션",
     "latitude": 37.7915038927097,
     "longitude": 127.532258835996,
-    "contactPhone": "010-9080-8363",
+    "contactPhone": [
+      "010-9080-8363"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -349,8 +351,8 @@
       {
         "thumbnail": [
           {
-            "id": "5b4c06e3-2954-4cb6-93ac-911d9fb405e8",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/pqRZ60XAzgQ7.jpg",
+            "id": "10582924-9132-4895-ae15-f9a85dc902d7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/24/Lwam02eoXYWC.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -2624,7 +2626,29 @@
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "66bf1a8f-602e-41a3-841f-26d5c43b9b72",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "203ea52e-091d-4b14-99d1-a0a5e4a00e3e",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a02fbc5c-62bf-49bf-b516-5dcea7de6f9c/popup/1788250878554-sg8s8k6o9s.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "66bf1a8f-602e-41a3-841f-26d5c43b9b72"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
